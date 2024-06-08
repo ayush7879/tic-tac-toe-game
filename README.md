@@ -14,9 +14,9 @@ google-chrome index.html
 
 ## Introduction
 
-<p align="center">
-    <img alt="Screenshot" src="output tic tac toe.png" width="800">
-</p>
+![tic-tac-win](https://github.com/ayush7879/tic-tac-toe-game/assets/112853530/e99dc200-81c8-4f37-95fa-f64f4ae524f1)
+
+![tic-tac-draw](https://github.com/ayush7879/tic-tac-toe-game/assets/112853530/25365e74-14a5-4d4d-a3ee-1811a9c244c7)
 
 
 ### Rules
